@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1baboris
 - 👀 I’m interested in frontend developpement
-- 🌱 I’m currently learning Angular and tailwind css
+- 🌱 I’m currently learning React JS and tailwind css
 
 <!---
 1baboris/1baboris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
