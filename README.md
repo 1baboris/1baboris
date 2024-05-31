@@ -1,8 +1,4 @@
-# Boris Ben Achour
-
-[![Visits](https://visitor-badge.glitch.me/badge?page_id=1baboris.1baboris)](https://github.com/1baboris)
-
-## 👋 Hey, ici Boris!
+# 👋 Hey, ici Boris!
 
 Je suis développeur web autodidacte, passionné par tout ce qui est créatif.
 J'aime travailler sur des projets ambitieux .
@@ -18,16 +14,11 @@ J'aime travailler sur des projets ambitieux .
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
-## 🔗 Liens
-
-- [LinkedIn](https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/boris-ben-achour-69405a285/))
-- [Portfolio](https://votre-portfolio.com](https://awesome-portfolio-smoky.vercel.app/))
-
 ## 📈 Statistiques GitHub
 
 ![Les statistiques de GitHub de 1baboris](https://github-readme-stats.vercel.app/api?username=1baboris&show_icons=true&theme=radical)
 
-
+[![Visits](https://visitor-badge.glitch.me/badge?page_id=1baboris.1baboris)](https://github.com/1baboris)
 
 
 <!---
