@@ -23,7 +23,7 @@ J'aime travailler sur des projets ambitieux .
 ## 🔗 Liens
 
 - [LinkedIn](https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/boris-ben-achour-69405a285/))
-- [Portfolio]([https://votre-portfolio.com](https://awesome-portfolio-smoky.vercel.app/))
+- [Portfolio](https://votre-portfolio.com](https://awesome-portfolio-smoky.vercel.app/))
 
 ## 📈 Statistiques GitHub
 
