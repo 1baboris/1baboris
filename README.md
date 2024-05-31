@@ -4,47 +4,31 @@
 
 ![Banner](url_de_votre_banniere)
 
-## 👋 Bonjour, je suis Boris Ben Achour!
+## 👋 Hey, ici Boris!
 
-Je suis [votre profession/occupation], passionné par [vos passions]. J'aime travailler sur [vos spécialités].
+Je suis développeur web autodidacte, passionné par tout ce qui est créatif.
+J'aime travailler sur des projets ambitieux .
 
-- 🌱 Actuellement, j'apprends [ce que vous apprenez].
-- 👯 Je suis ouvert à collaborer sur [types de projets].
-- 🤔 Je cherche de l'aide avec [ce que vous cherchez à améliorer].
-- 💬 Demandez-moi sur [sujets sur lesquels vous pouvez aider].
-- 📫 Vous pouvez me joindre à : [votre email].
-- ⚡ Fun fact : [un fait amusant sur vous].
+- 🌱 Actuellement, j'apprends Next.js.
 
 ## 🚀 Compétences
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+## 🔗 Liens
+
+- [LinkedIn](https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/boris-ben-achour-69405a285/))
+- [Portfolio]([https://votre-portfolio.com](https://awesome-portfolio-smoky.vercel.app/))
 
 ## 📈 Statistiques GitHub
 
 ![Les statistiques de GitHub de 1baboris](https://github-readme-stats.vercel.app/api?username=1baboris&show_icons=true&theme=radical)
 
-## 🔗 Liens
-
-- [LinkedIn](https://www.linkedin.com/in/votre-profil)
-- [Twitter](https://twitter.com/votre-profil)
-- [Portfolio](https://votre-portfolio.com)
-
-## 📚 Projets principaux
-
-### Projet 1
-**Description**: Une brève description de votre projet.
-- Technologies utilisées: 
-- Lien du projet: [Lien vers le projet](https://github.com/1baboris/projet1)
-
-### Projet 2
-**Description**: Une brève description de votre projet.
-- Technologies utilisées: 
-- Lien du projet: [Lien vers le projet](https://github.com/1baboris/projet2)
 
 
 
