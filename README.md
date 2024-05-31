@@ -2,8 +2,6 @@
 
 [![Visits](https://visitor-badge.glitch.me/badge?page_id=1baboris.1baboris)](https://github.com/1baboris)
 
-![Banner](url_de_votre_banniere)
-
 ## 👋 Hey, ici Boris!
 
 Je suis développeur web autodidacte, passionné par tout ce qui est créatif.
