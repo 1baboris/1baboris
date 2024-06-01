@@ -1,4 +1,4 @@
-# 👋 Hey, ici Boris!
+# 👋 Hello je suis Boris!
 
 Je suis développeur web autodidacte, passionné par tout ce qui est créatif.
 J'aime travailler sur des projets ambitieux .
